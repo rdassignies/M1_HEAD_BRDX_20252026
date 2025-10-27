@@ -51,7 +51,12 @@ Ce cours poursuit un double objectif pour les futurs juristes :
 **Activité pratique :** Conception d'un parcours de formation pour les nouveaux métiers
 
 ### Module 3 : Utilisation pratique des modèles de langage (9h00)
+
+https://github.com/rdassignies/M1_HEAD_BRDX_20252026/blob/main/genIA_etudiants_guide_pratique.md 
+
 **Objectifs :** Maîtriser le pilotage des outils IA pour les professionnels du droit
+
+
 
 **Contenu :**
 - Cas d'usage juridiques : recherche augmentée, rédaction, extraction d'informations, analyse documentaire
