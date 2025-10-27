@@ -1,7 +1,4 @@
-# M1_HEAD_BRDX_20252026
-# Cours M1 - Année 2025/2026 - Bordeaux - Usage de l'IA pour les professionnels du droit 
-
-# Usage avancé de l'intelligence artificielle pour les professionnels du droit
+# Cours M1 - Année 2025/2026 - Campus Bordeaux - Usage de l'IA pour les professionnels du droit 
 
 **📖 Support de cours interactif** : https://my.beekast.com/kast/68ff8e040699c77e59abf871/presentation
 
