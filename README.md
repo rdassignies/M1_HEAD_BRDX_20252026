@@ -10,7 +10,7 @@
 - Version initiale du support de cours
 ---
 
-## M1 - Droit et pratique des affaires | 1er trimestre 2025/2026
+## M1 - Droit et pratique des affaires | 2025/2026
 
 **Intervenant :** Raphaël d'Assignies
 **Durée totale :** 15h00
