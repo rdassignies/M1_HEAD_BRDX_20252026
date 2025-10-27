@@ -1,9 +1,9 @@
 
-# Introduction à l'intelligence artificielle générative
-
-Durée: 09h
+# Introduction à l'intelligence artificielle générative pour les étudiants en droit
 
 Librement inspiré de https://www.ox.ac.uk/gen-ai
+
+Cette fiche pratique est complémentaire du cours et constitue une première approche à la GenIA. 
 
 ### A - Qu'est-ce que l'IA générative ?
 
