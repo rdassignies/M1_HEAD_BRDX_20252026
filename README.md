@@ -18,7 +18,13 @@ https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-red
         Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
 
   Un pdf vu par l'IA : 
-  https://github.com/rdassignies/B1-Culture-num-rique/blob/main/hieroglyphes.md 
+  https://github.com/rdassignies/B1-Culture-num-rique/blob/main/hieroglyphes.md
+
+- Traduire et résumer le guide pratique d'openai sur le prompting :
+
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+
+- 
 
 
 ### Version 1.0 - 20 Octobre 2025
