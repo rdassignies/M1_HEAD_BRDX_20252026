@@ -11,6 +11,13 @@
 - Ajout modèle word pour la rédaction du cours
 https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-redaction-word.md
 
+
+- System Prompts Leaks : https://github.com/asgeirtj/system_prompts_leaks
+        Collection communautaire de prompts système extraits des principaux chatbots IA
+        Inclut les instructions système de ChatGPT, Claude, Gemini, Perplexity, Grok et autres
+        Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
+
+
 ### Version 1.0 - 20 Octobre 2025
 - Version initiale du support de cours
 ---
