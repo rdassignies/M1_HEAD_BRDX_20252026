@@ -17,6 +17,9 @@ https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-red
         Inclut les instructions système de ChatGPT, Claude, Gemini, Perplexity, Grok et autres
         Ressource utile pour comprendre le fonctionnement interne et les directives des assistants IA
 
+  Un pdf vu par l'IA : 
+  https://github.com/rdassignies/B1-Culture-num-rique/blob/main/hieroglyphes.md 
+
 
 ### Version 1.0 - 20 Octobre 2025
 - Version initiale du support de cours
