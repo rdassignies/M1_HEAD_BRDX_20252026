@@ -24,7 +24,9 @@ https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-red
 
 https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
 
-- 
+Lire et comprendre les exemples avancés sur learning prompt : 
+
+- https://learnprompting.org/docs/introduction
 
 
 ### Version 1.0 - 20 Octobre 2025
