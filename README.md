@@ -6,6 +6,11 @@
 
 ## 📋 Notes de version du document
 
+### Version 1.1 - 18 novembre 2025
+
+- Ajout modèle word pour la rédaction du cours
+https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-redaction-word.md
+
 ### Version 1.0 - 20 Octobre 2025
 - Version initiale du support de cours
 ---
