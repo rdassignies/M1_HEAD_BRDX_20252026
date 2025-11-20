@@ -10,11 +10,11 @@
 
 ## Exercice pour les M1
 
-A partir de cette page qui décrit les meilleurs techniques de prompting :
+A partir de cette page qui décrit les techniques de prompting :
 
 https://ruben.substack.com/p/context-is-all-you-need
 
-- Vous devez rédiger présentation synthétique (slides) qui présente les bonnes pratiques en matière de prompting. 
+- Vous devez rédiger une présentation synthétique (slides) qui présente les bonnes pratiques en matière de prompting. 
 - Vous devez adapter tous les exemples dans un contexte juridique
 - Un ou deux étudiants viendront présenter les bonnes pratiques à l'oral
 
