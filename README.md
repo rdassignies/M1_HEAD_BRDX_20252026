@@ -6,6 +6,20 @@
 
 ## 📋 Notes de version du document
 
+### Version 1.2 - 20 novembre 2025
+
+## Exercice pour les M1
+
+A partir de cette page qui décrit les meilleurs techniques de prompting :
+
+https://ruben.substack.com/p/context-is-all-you-need
+
+- Vous devez rédiger présentation synthétique (slides) qui présente les bonnes pratiques en matière de prompting. 
+- Vous devez adapter tous les exemples dans un contexte juridique
+- Un ou deux étudiants viendront présenter les bonnes pratiques à l'oral
+
+Par ailleurs, vous devez effectuer des recherches concernant le concept de **méta prompting** et l'illustrer d'un exemple dans la matière juridique de votre choix. 
+
 ### Version 1.1 - 18 novembre 2025
 
 - Ajout modèle word pour la rédaction du cours
