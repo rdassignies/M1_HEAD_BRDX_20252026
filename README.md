@@ -22,9 +22,14 @@ Par ailleurs, vous devez effectuer des recherches concernant le concept de **mé
 
 ### Version 1.1 - 18 novembre 2025
 
-- Ajout modèle word pour la rédaction du cours
+## Exercice pour les B1
+
+A partir du guide pratique et du fichier word modèle, vous devez rédiger un cours complet reprenant les principaux thèmes selon un plan raisonné : 
+
 https://github.com/rdassignies/B1-Culture-num-rique/blob/main/fiche-pratique-redaction-word.md
 
+
+## Liens utiles : 
 
 - System Prompts Leaks : https://github.com/asgeirtj/system_prompts_leaks
         Collection communautaire de prompts système extraits des principaux chatbots IA
