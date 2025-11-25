@@ -6,6 +6,18 @@
 
 ## 📋 Notes de version du document
 
+### Version 1.3 - 25 novembre 2025
+
+**Examen final**
+
+Durée : 1h30
+
+1. QCM et cas pratiques (70% de la note finale)
+2. Cours de l'étudiant mise en forme (30% de la note)
+
+Document autorisé :
+- Cours personnel 
+
 ### Version 1.2 - 20 novembre 2025
 
 ## Exercice pour les M1
