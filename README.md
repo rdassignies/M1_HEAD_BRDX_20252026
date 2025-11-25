@@ -8,6 +8,9 @@
 
 ### Version 1.3 - 25 novembre 2025
 
+<img width="879" height="509" alt="image" src="https://github.com/user-attachments/assets/7206d194-4cf7-43d3-8412-492ad6e27527" />
+
+
 **Examen final**
 
 Durée : 1h30
