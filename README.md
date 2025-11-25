@@ -35,6 +35,8 @@ https://ruben.substack.com/p/context-is-all-you-need
 
 Par ailleurs, vous devez effectuer des recherches concernant le concept de **méta prompting** et l'illustrer d'un exemple dans la matière juridique de votre choix. 
 
+https://chatgpt.com/share/6925c8b4-8dc0-8003-b148-ceac0026a944 
+
 ### Version 1.1 - 18 novembre 2025
 
 ## Exercice pour les B1
